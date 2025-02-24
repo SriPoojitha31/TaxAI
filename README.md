@@ -1,6 +1,7 @@
 # TaxAI
 
 Core Features
+
 User Authentication:
 
 Secure login and registration system (e.g., email/password, social login options).
